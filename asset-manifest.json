@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Creative-game-memory/static/css/main.b59e7635.chunk.css",
+    "main.js": "/Creative-game-memory/static/js/main.d9f7de10.chunk.js",
+    "main.js.map": "/Creative-game-memory/static/js/main.d9f7de10.chunk.js.map",
+    "runtime-main.js": "/Creative-game-memory/static/js/runtime-main.8af3cc29.js",
+    "runtime-main.js.map": "/Creative-game-memory/static/js/runtime-main.8af3cc29.js.map",
+    "static/js/2.3ae27483.chunk.js": "/Creative-game-memory/static/js/2.3ae27483.chunk.js",
+    "static/js/2.3ae27483.chunk.js.map": "/Creative-game-memory/static/js/2.3ae27483.chunk.js.map",
+    "index.html": "/Creative-game-memory/index.html",
+    "precache-manifest.31f41223c208063d74c721721804eef5.js": "/Creative-game-memory/precache-manifest.31f41223c208063d74c721721804eef5.js",
+    "service-worker.js": "/Creative-game-memory/service-worker.js",
+    "static/css/main.b59e7635.chunk.css.map": "/Creative-game-memory/static/css/main.b59e7635.chunk.css.map",
+    "static/js/2.3ae27483.chunk.js.LICENSE.txt": "/Creative-game-memory/static/js/2.3ae27483.chunk.js.LICENSE.txt",
+    "static/media/back.png": "/Creative-game-memory/static/media/back.fff8cdb0.png",
+    "static/media/clown.png": "/Creative-game-memory/static/media/clown.5c1549fe.png",
+    "static/media/devilEye.png": "/Creative-game-memory/static/media/devilEye.718dbce2.png",
+    "static/media/dracula.png": "/Creative-game-memory/static/media/dracula.107bfa0b.png",
+    "static/media/pentagram.png": "/Creative-game-memory/static/media/pentagram.ebfed2bc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8af3cc29.js",
+    "static/js/2.3ae27483.chunk.js",
+    "static/css/main.b59e7635.chunk.css",
+    "static/js/main.d9f7de10.chunk.js"
+  ]
+}
