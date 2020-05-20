@@ -1,1 +1,1 @@
-Game "Memory" play: https://markbasov.github.io/Creative-game-memory/
+Game "Memory". Link to play: https://markbasov.github.io/Creative-game-memory/
