@@ -1,0 +1,40 @@
+$bgColorButton: #e0e1e2;
+
+.panel-wrapper {
+   max-width: 650px;
+   margin: 0 auto;
+   margin-top: 30px;
+
+   &__panel {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      align-items: center;
+   }
+}
+.panel {
+   &__body {
+      padding: 20px 0 0 20px;
+      display: flex;
+      justify-content: center;
+   }
+
+   &__modal {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+   }
+
+   &__timer {
+      text-align: center;
+   }
+
+   &__footer {
+      text-align: right;
+   }
+
+   &__start-button .button {
+      &:disabled {
+         background-color: rgba($bgColorButton, 0.5);
+      }
+   }
+}

@@ -1,0 +1,52 @@
+$gray: #9b9b9b;
+$white: #fff;
+
+.confirm-wrapper {
+   width: 550px;
+   max-height: 100%;
+   max-width: 100%;
+   border-radius: 8px;
+   box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14),
+               0 1px 10px 0 rgba(0,0,0,0.12),
+               0 2px 4px -1px rgba(0,0,0,0.2);
+   background-color: #f5f5f5;
+   overflow: hidden;
+ 
+   &__confirm-header {
+   background-color: #fff;
+   padding: 5px 5px 5px 20px;
+   border-bottom: 1px solid $gray;
+   height: 48px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   }
+
+   &__confirm-body {
+      height: 100px;
+      border-bottom: 1px solid $gray;
+      padding: 20px 0 0 20px;
+   }
+
+   &__confirm-footer {
+      background-color: $white;
+      height: 50px;
+      padding: 5px 10px 5px 10px;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+   }
+}
+
+.confirm-body {
+   &__textBoxNickName {
+      padding: 9px 12px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      transition: border-color 0.2s;
+   }
+}
+         
